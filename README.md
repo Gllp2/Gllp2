@@ -40,11 +40,4 @@
 </div>
 
 
-###
 
-<br clear="both">
-
-![snake gif](https://github.com/Gllp2/Gllp2/blob/output/github-contribution-grid-snake.svg)
-
-
-###
